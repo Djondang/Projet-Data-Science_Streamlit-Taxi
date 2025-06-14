@@ -1,0 +1,13 @@
+# Fichiers Python compilés
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environnements virtuels
+.venv/
+env/
+venv/
+# Données volumineuses ou sensibles
+*.csv
+*.pkl
+random_forest_model.pkl
